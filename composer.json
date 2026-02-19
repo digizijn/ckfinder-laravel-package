@@ -9,7 +9,6 @@
         "pimple/pimple": "~3.0",
         "league/flysystem": "^3.0",
         "league/flysystem-aws-s3-v3": "^3.0",
-        "league/flysystem-azure-blob-storage": "^3.0",
         "league/flysystem-ftp": "^3.0",
         "spatie/flysystem-dropbox": "^2.0|^3.0",
         "ext-json": "*",
